@@ -2,11 +2,14 @@
     Written by: Abdul Habra
     Last Update: 2020.02.13
 
+Overview of features add to Java 9 and higher. 
+This reflects the author's opinion :)
 
-## Laws Of Meeting
-1. Law of Two Feet
-2. Law of Big Mouth
-3. Law of Equal Participation (a.k.a Uniform Distribution)
+
+## 3 Laws Of Meeting
+1. Law of Two Feet: Walk away if you are not learning
+2. Law of Big Mouth: Ask questions anytime
+3. Law of Equal Participation (a.k.a Uniform Distribution): Do not take over the talk
 
 ## SdkMan
 Tool to manage parallel versions of SDKs (Java and others). Same idea as jEnv, but better :)
