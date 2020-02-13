@@ -1,0 +1,7 @@
+#!/Users/hab896/.sdkman/candidates/java/13.0.2-zulu/bin/java --source 11
+
+public class Foo {
+    public static void main(String[] args) {
+        System.out.println("Java Says: Hello " + System.getProperty("user.name"));
+    }
+}
