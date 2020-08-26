@@ -36,8 +36,8 @@ Tool to manage parallel versions of SDKs (Java and others). Same idea as jEnv, b
 | 11      | 11.x.y         | 2018/9  | 9/2023 LTS     |
 | 12      | 12.x.y         | 2019/3  | to next        |
 | 13      | 13.x.y         | 2019/9  | to next        |
-| 14      | 14.x.y         | 2020/3? | to next        |
-| 15      | 15.x.y         | 2020/9? | to next        |
+| 14      | 14.x.y         | 2020/3  | to next        |
+| 15      | 15.x.y         | 2020/9  | to next        |
 
 
 * LTS: Long-Term-Support starting with 11
